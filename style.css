@@ -1,0 +1,134 @@
+body {
+ background-color: black;
+    text-align: center;
+}
+
+
+.myNavbar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+
+li {
+    color:gray
+}
+
+
+nav {
+ background-color: black;
+}
+
+
+#titulo {
+    font-size: 90px;
+    text-align: center;
+   
+}
+
+
+h1 {
+    color:white;
+}
+
+
+.text-capitalize
+{
+    color:white;  
+}
+
+
+.text-sucess 
+{
+    color:white; 
+    font-size: 30px;
+}
+
+
+
+.text-muted
+{
+    color:white; 
+    font-size: 30px; 
+}
+
+
+
+
+#h5
+{
+color: white;
+font-size: 30px;
+background-color: red;
+}
+
+
+
+.paragrafo
+{
+    color: white;
+    font-size: 30px;
+    background-color: red;
+}
+
+#conquistas
+{
+    color: white;
+    font-size: 30px;
+    background-color: red;
+}
+
+
+.glyphicon-star
+{
+    color: yellow;
+}
+
+
+.page-header
+{
+    color:white;
+}
+
+.h
+{
+    color: black;
+    font-size: 30px;
+}
+
+#h
+{
+    color: white;
+    font-size: 60px;
+    background-color: blue; 
+}
+
+
+.novidade
+{
+    margin-bottom: 20px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+
+#a
+{
+    color: white;
+    font-size: 45px;  
+}
+
+#z
+{
+    color: white;
+    font-size: 60px; 
+}
+
+.j
+{
+font-size: 30px;
+}
